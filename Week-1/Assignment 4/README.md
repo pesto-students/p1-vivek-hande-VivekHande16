@@ -52,11 +52,11 @@
 
 #### 2. The Forward Stop Bar 
 - Paired with the corner refuge island is a forward stop bar for bikers. While people driving must stop back behind the crosswalk, people on bikes may yield to pedestrians, and stop at a bicycle waiting area farther ahead in the intersection. Bikers turning left also use this space to wait when making a left turn. 
-#### 3. The advantage of this design is three fold: 
+#### The advantage of this design is three fold: 
 - The forward stop location makes bikers incredibly visible to drivers waiting at a red light. 
 The physical distance ahead of cars gives bicyclist an effective head start when the light turns green. 
 - The distance of the road that bikers need to cross is greatly reduced. 
-#### The Setback Crossing in Protected Intersections 
+#### 3.  The Setback Crossing in Protected Intersections 
 - The bike lane bends away from the intersection creating in a setback bikes and pedestrian crossing. 
 - In contrast to conventional bicycle crossing that run next to moving cars, the setback crossings provide the space and time for everyone to react to potential conflicts.
 - With this design, drivers turn 90 degrees to face the bike lane before they even cross it, making people on bikes highly visible and out of the driver’s blind spot. To allow for adequate reaction time for all users, a small effective corner radius is ued to encourage a slow driver turning speed of 5-10 mph.
