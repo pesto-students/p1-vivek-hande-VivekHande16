@@ -46,13 +46,13 @@
 
 4. Biker Friendly Signal phasing 
 
-#### The Corner Refuge Island 
+#### 1. The Corner Refuge Island 
 - The corner refuge island is the key element that makes these intersections function. This island brings the protective barrier from the bike lane far into the intersection. 
 - The island physically separates bikers as they make right turns, and provide a secure refuge for those waiting at a red signal protected from moving cars. 
 
-#### The Forward Stop Bar 
+#### 2. The Forward Stop Bar 
 - Paired with the corner refuge island is a forward stop bar for bikers. While people driving must stop back behind the crosswalk, people on bikes may yield to pedestrians, and stop at a bicycle waiting area farther ahead in the intersection. Bikers turning left also use this space to wait when making a left turn. 
-#### The advantage of this design is three fold: 
+#### 3. The advantage of this design is three fold: 
 - The forward stop location makes bikers incredibly visible to drivers waiting at a red light. 
 The physical distance ahead of cars gives bicyclist an effective head start when the light turns green. 
 - The distance of the road that bikers need to cross is greatly reduced. 
@@ -60,7 +60,7 @@ The physical distance ahead of cars gives bicyclist an effective head start when
 - The bike lane bends away from the intersection creating in a setback bikes and pedestrian crossing. 
 - In contrast to conventional bicycle crossing that run next to moving cars, the setback crossings provide the space and time for everyone to react to potential conflicts.
 - With this design, drivers turn 90 degrees to face the bike lane before they even cross it, making people on bikes highly visible and out of the driver’s blind spot. To allow for adequate reaction time for all users, a small effective corner radius is ued to encourage a slow driver turning speed of 5-10 mph.
-#### Bikes-Friendly Signal Phasing 
+#### 4. Bikes-Friendly Signal Phasing 
 - This will use of signals to control how and when different people can proceed. At its most secure, a protected signal phase for bikes will use red signals to prevent any conflicting car turning movements. 
 - There is no risk of right or left hooks from cars when they are prohibited from turning while bikers are traveling through.
 - A variation of the protected signal phase is to give all car movements the red signal, and all bicyclist movements a green. 
