@@ -23,12 +23,9 @@
 - Took vertical as well as horizontal sight distances into account.
 - Prohibited parking near intersections. 
 - Limited right-turn-on-red movements in areas of high pedestrian volumes. 
--  Kept crosswalks at right angles to turning roadway terminals and slip lanes. 
-- Kept right turns below 15 mph and left turns below 20 mph. 
+-  Kept crosswalks at right angles to turning roadway terminals and slip lanes.  
 - Located crossing close to the parallel street. 
-- Placed crosswalks across the full width of the pavement. 
-- Used crosswalks at all signalized intersections. 
-- Used crosswalks at non-signalized intersections with discretion. 
+- Placed crosswalks across the full width of the pavement.   
 - Used special markings such as striped (“zebra”) longitudinal lines or diagonal cross     hatching for added visibility and to emphasize a crossing. 
 
 ### 2.	Bike passage :
@@ -54,7 +51,7 @@
 - Paired with the corner refuge island is a forward stop bar for bikers. While people driving must stop back behind the crosswalk, people on bikes may yield to pedestrians, and stop at a bicycle waiting area farther ahead in the intersection. Bikers turning left also use this space to wait when making a left turn. 
 #### The advantage of this design is three fold: 
 - The forward stop location makes bikers incredibly visible to drivers waiting at a red light. 
-The physical distance ahead of cars gives bicyclist an effective head start when the light turns green. 
+- The physical distance ahead of cars gives bicyclist an effective head start when the light turns green. 
 - The distance of the road that bikers need to cross is greatly reduced. 
 #### 3.  The Setback Crossing in Protected Intersections 
 - The bike lane bends away from the intersection creating in a setback bikes and pedestrian crossing. 
