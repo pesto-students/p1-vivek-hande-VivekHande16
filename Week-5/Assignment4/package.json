@@ -1,0 +1,14 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Vivek",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
