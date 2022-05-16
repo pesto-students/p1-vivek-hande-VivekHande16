@@ -5,6 +5,7 @@ function swap(arr) {
     let temp = 0;
 
     while(mid <= high) {
+    //If arr[mid] == 0 then swap lower with mid and increase both low and mid pointers
         if(arr[mid] == 0) {
             temp = arr[low];
             arr[low] = arr[mid];
@@ -12,10 +13,11 @@ function swap(arr) {
             low++;
             mid++;
         }
+    //If arr[mid] == 1 then increment the mid pointer
         else if(arr[mid] == 1) {
             mid++;
         }
-            
+    //If arr[mid] == 2 then swap the mid with high and decrement the high pointer.       
         else if(arr[mid] == 2) {
             temp = arr[mid];
             arr[mid] = arr[high];

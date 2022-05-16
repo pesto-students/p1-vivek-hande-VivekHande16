@@ -1,11 +1,8 @@
 function findPair(arr, diff) {
 
-    let start = 0;
-    while(start <= arr.length) { 
-        if(arr.includes(arr[start] + diff)) return 1;
+    for(let i=0; i<arr.length; i++) 
+        if(arr.includes(arr[i] + diff)) return 1;
 
-        start++;
-    }
     return 0;
 
 }
