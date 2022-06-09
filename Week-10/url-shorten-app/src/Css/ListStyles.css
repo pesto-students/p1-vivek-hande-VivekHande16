@@ -1,0 +1,27 @@
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+h1{
+    font-size: 2.1rem;
+}
+
+.container-flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.listItem{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 2rem;
+    font-size: 1rem;
+}
+
+.active {
+    color:aqua;
+    border-bottom: .1em double aqua;
+}
