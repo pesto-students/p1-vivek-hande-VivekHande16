@@ -1,1 +1,12 @@
+Sort an array in wave form with following requirements : 
 
+
+1. Takes input an array of numbers. 
+2. The numbers in the input array can be negative, positive, decimal and in any order.
+3. Returns the array Re arrange numbers in the array as follows : a1 <= a2 >= a3 <= a4 >= ....
+4. If multiple operations are required can have a common function to reuse them
+5. Time complexity (Big O notation) of your solution
+6. Space complexity (Big O notation) of your solution
+7. List all possible test cases
+8. Sample Input : [10, -90, 49, 2.0, 1, 5, 23];
+9. Sample Output : [ -90 , 49,  2.0 , 10 , 1 , 23 , 5]
