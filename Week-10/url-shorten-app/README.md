@@ -1,2 +1,2 @@
 ## URL Shortening app deployment link
-https://62a1cd193077c36092045564--curious-monstera-a44d9a.netlify.app/
+https://app.netlify.com/sites/resonant-bavarois-0ca98e/deploys/62af8fd91949a310ff9a8ab4
