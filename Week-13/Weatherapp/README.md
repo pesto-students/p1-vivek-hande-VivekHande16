@@ -1,6 +1,6 @@
 # Weather App Nodejs
 
-![](Image/Home_page.png)
+![](Image/Home_page.PNG)
 
 ## Heroku deployment link
 
