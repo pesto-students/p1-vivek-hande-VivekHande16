@@ -36,7 +36,12 @@ function LinkResult({inputValue}) {
     }, [copied])
     
     if(loading) {
-        return <p class="noData">Loading...</p>
+        return (
+            <>
+            <div className='ring'></div>
+            <p>loading...</p>
+            </>
+        )
     }
 
     if(error) {
@@ -61,3 +66,4 @@ function LinkResult({inputValue}) {
 }
 
 export default LinkResult
+
