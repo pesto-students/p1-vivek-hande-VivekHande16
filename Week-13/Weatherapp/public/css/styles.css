@@ -1,0 +1,283 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css);
+/* 
+* {
+
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #333333;
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0 16px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex-grow: 1;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  font-size: 64px;
+  margin-bottom: 16px;
+}
+
+
+.widget {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: flex;
+  height: 300px;
+  width: 600px;
+  transform: translate(-50%, -50%);
+  flex-wrap: wrap;
+  cursor: pointer;
+  border-radius: 20px;
+  box-shadow: 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 17px 17px 0 rgba(0, 0, 0, 0.15);
+}
+
+.weatherLocation{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  padding: 2rem;
+  background-color: #fafafa;
+}
+
+.weatherLocation button{
+  background: #080705;
+  color:#fff;
+  border: 1px solid transparent;
+}
+.weatherLocation input:focus{
+  outline: 0 none;
+}
+
+.widget .weatherIcon {
+  flex: 1 100%;
+  height: 60%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background: #FAFAFA;
+  font-family: weathericons;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 100px;
+}
+.widget .weatherIcon i {
+  padding-top: 30px;
+}
+.widget .weatherInfo {
+  flex: 0 0 70%;
+  height: 40%;
+  background: #080705;
+  border-bottom-left-radius: 20px;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.widget .weatherInfo .temperature {
+  flex: 0 0 40%;
+  width: 100%;
+  font-size: 35px;
+  display: flex;
+  justify-content: space-around;
+}
+.widget .weatherInfo .description {
+  flex: 0 60%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+.widget .weatherInfo .description .weatherCondition {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 100;
+}
+.widget .weatherInfo .description .place {
+  font-size: 15px;
+}
+.widget .date {
+  flex: 0 0 30%;
+  height: 40%;
+  background: rgb(68, 112, 207);
+  border-bottom-right-radius: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+p {
+  position: fixed;
+  bottom: 0%;
+  right: 2%;
+}
+p a {
+  text-decoration: none;
+  color: #E4D6A7;
+  font-size: 10px;
+} */
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 50vw;
+  height: 70vh;
+  background-color: aquamarine;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 1rem 2rem;
+}
+
+.header{
+  width: 100%;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header span{
+  font-size: 1.5rem;
+  font-weight: 1000;
+}
+
+.header form {
+  width: 60%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header input{ 
+  height: 2.5rem;
+  width: 80%;
+  border: none;
+  border-radius: 2rem;
+  padding-left: 1rem;
+  font-size: 1.1rem;
+  color: rgb(48, 45, 45);
+}
+
+.header button{ 
+  height: 2.5rem;
+  padding: 0 1rem;
+  border-radius: 2rem;
+  margin-left: 0.5rem;
+  border: none;
+  background-color:aqua;
+}
+.header button:hover{
+  border: 2px solid black;
+}
+
+.article {
+  padding: 1rem .5rem 0 .5rem;
+  display: flex;
+}
+
+.left_block{
+  flex-basis: 40%;
+  /* background-color: blueviolet; */
+  padding: .5rem 0;
+}
+
+.weather_Icon i{
+  font-size: 10rem;
+  
+  margin-bottom: 2rem;
+}
+
+.temperature{
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.feels_like{
+  font-size: 1.1rem;
+  font-weight: 800;
+}
+
+.right_block{
+  flex-grow: 1;
+  /* background-color: aqua; */
+  padding: .5rem 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.loc_city{
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.location_Icon{
+  font-size: 2rem;
+  color: red;
+}
+
+.city{
+  font-size: 2rem;
+  font-weight: 800;
+  margin-left: 1rem;
+}
+
+.day_block{
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+.day{
+  font-size: 5rem;
+}
+
+.description {
+  margin-top: 2rem;
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.block{
+  padding: 1rem;
+  background-color:aqua;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin: 0.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
