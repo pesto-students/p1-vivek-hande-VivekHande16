@@ -1,7 +1,5 @@
 # Plain React Room with Lightswitch
 
-This is a simple React app with one piece of state.
-
+Netlify deployment link:
 ---
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://62af90d0446d521346d29b3a--playful-palmier-b33e6a.netlify.app/
